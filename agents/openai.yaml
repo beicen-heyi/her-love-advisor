@@ -1,0 +1,4 @@
+interface:
+  display_name: "HER 恋爱狗头军师"
+  short_description: "看清恋爱局面，按你选的路线给聊天、邀约和推进方法"
+  default_prompt: "使用 $her-love-advisor 帮我判断局面，并按我想走的路线给具体回复和下一步。"
